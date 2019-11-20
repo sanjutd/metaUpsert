@@ -1,5 +1,4 @@
-USE [RiskManagement]
-GO
+
 
 /****** Object:  StoredProcedure [run].[MetaUpsertCall]    Script Date: 11/20/2019 7:48:11 AM ******/
 SET ANSI_NULLS ON
@@ -98,12 +97,7 @@ AS
 		
 		END
 	END 
---select * from run.[metaUpsertControl]
 
---EXEC [run].[MetaUpsertCall] 'ActivityEntityObjectives', 'Y'
-
-
- --update run.[metaUpsertControl] set TargetTable = 'ObjectivesH' where ID = 3 
 
 
 
