@@ -1,6 +1,3 @@
-USE [RiskManagement]
-GO
-
 /****** Object:  StoredProcedure [Meta].[Upsert]    Script Date: 11/20/2019 7:46:01 AM ******/
 DROP PROCEDURE [Meta].[Upsert]
 GO
