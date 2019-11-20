@@ -1,5 +1,3 @@
-USE [RiskManagement]
-GO
 
 /****** Object:  UserDefinedFunction [Meta].[fnSplit]    Script Date: 11/20/2019 7:45:53 AM ******/
 SET ANSI_NULLS ON
