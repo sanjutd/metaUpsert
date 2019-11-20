@@ -1,5 +1,3 @@
-USE [RiskManagement]
-GO
 
 /****** Object:  Table [run].[metaUpsertControl]    Script Date: 11/20/2019 7:48:54 AM ******/
 DROP TABLE [run].[metaUpsertControl]
